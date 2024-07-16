@@ -1,0 +1,47 @@
+.text-center{
+    text-align: center;
+  }
+  
+  #bg-red{
+    background: rgb(48, 49, 45);
+    width:27%;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  #lastrow{
+    margin-bottom:30px;
+  }
+
+  #colour{
+    background-color:rgb(132, 132, 255);
+  }
+
+  #equal{
+    background-color: rgb(254, 253, 253);
+    color:black;
+  }
+
+  #clear{
+    background-color:rgb(239, 97, 185);
+    color:rgb(255, 255, 255);
+  }
+
+  #brackets{
+    background-color: orange;
+  }
